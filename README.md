@@ -7,6 +7,11 @@ A simple, responsive clone of the Netflix landing page built using **only HTML a
 [Click here to view the live demo](https://netflix-clone-black-three.vercel.app/)
 
 ---
+##Preview
+![image](https://github.com/user-attachments/assets/19ca9846-7644-4bb7-97b9-198217a67958)
+
+
+---
 ## 🛠️ Features
 
 ✅ Fully responsive layout  
